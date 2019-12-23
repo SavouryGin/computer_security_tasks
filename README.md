@@ -1,4 +1,7 @@
 # Python Computer Security Exercises.
+
+[![codecov](https://codecov.io/gh/SavouryGin/computer_security_tasks/branch/master/graph/badge.svg)](https://codecov.io/gh/SavouryGin/computer_security_tasks)
+
 Tasks completed during the course "Mathematical Foundations of Computer Security".
 
 ## Task 1. Hide and find message using ending spaces.
